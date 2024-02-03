@@ -1,4 +1,4 @@
-o set up the project, follow these steps:
+set up the project, follow these steps:
 
 Open VS Code and install the Python extension if not already installed.
 
@@ -13,4 +13,7 @@ Inside FILE24, create subfolders:
 template for HTML files.
 static for JavaScript files and images.
 css for CSS files.
+app.py forpython file
 Install the required Python libraries using the following commands:
+pip install flask requests translator
+# Add other libraries as needed
